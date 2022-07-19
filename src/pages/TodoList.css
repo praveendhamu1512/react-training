@@ -1,0 +1,14 @@
+.task-status {
+
+    padding: 10px;
+}
+.task-name {
+
+    cursor: pointer;
+    
+}
+
+.completed-task {
+
+    text-decoration: line-through;
+}

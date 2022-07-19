@@ -1,0 +1,15 @@
+
+.login {
+    background-color: antiquewhite;    
+    height: 500px;
+    position: relative;
+}
+
+.form-design {
+ 
+    height: 200px;
+    position: absolute;
+    top: 50%;
+    left:20%;
+    display: inline-block;
+}
